@@ -7,7 +7,8 @@
 ## Plans
 - After completing my masters I would like to work as a full-stack developer.
 ## Links
-you can connect me through [linkedin](https://www.linkedin.com/in/akhitha-tumula-8a5aba191/)
+1. [shell-data-processing](https://github.com/thumula-akhitha/shell-data-processing)
+2. you can connect me through [linkedin](https://www.linkedin.com/in/akhitha-tumula-8a5aba191/)
 
 ![image](image.JPG)
 
